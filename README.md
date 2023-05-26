@@ -34,6 +34,6 @@ Python 3.4 and other common packages listed in `requirements.txt`.
 
 
 ## Sample Output 
-![]([asset/sample_output1.png](https://github.com/kishoreparanthaman/RRT/blob/main/assest/sample_output1.png))
+![alt text](https://github.com/kishoreparanthaman/RRT/blob/main/assest/sample_output1.png)
 
     
