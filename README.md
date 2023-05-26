@@ -26,7 +26,10 @@ Python 3.4 and other common packages listed in `requirements.txt`.
    ```bash
    pip3 install -r requirements.txt
    ```
-3. Run RRT.py from the repository root directory
+3. Run RRT.py from the repository root directory ```bash
+   cd RRT
+   python RRT.py
+   ```
 4. Input of starting coordinate values, goal coordinate values and obsatcle coordinate values  must be given in the start, goal, manual_obstacle tuples respectively under the main method
 5. The start point, goal point and manual_obstacle will be in blue, green and pink colour respectively 
 6. In order to test with multiple obstacles, random obstacles in rectangle and elliptical shapes are added. They are colored grey and orange, respectively.
