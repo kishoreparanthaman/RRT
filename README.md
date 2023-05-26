@@ -34,6 +34,6 @@ Python 3.4 and other common packages listed in `requirements.txt`.
 
 
 ## Sample Output 
-![](assets/sample_output1.png)
+![](asset/sample_output1.png)
 
     
