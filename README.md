@@ -26,7 +26,8 @@ Python 3.4 and other common packages listed in `requirements.txt`.
    ```bash
    pip3 install -r requirements.txt
    ```
-3. Run RRT.py from the repository root directory ```bash
+3. Run RRT.py from the repository root directory 
+   ```bash
    cd RRT
    python RRT.py
    ```
