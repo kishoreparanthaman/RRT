@@ -32,4 +32,8 @@ Python 3.4 and other common packages listed in `requirements.txt`.
 6. In order to test with multiple obstacles, random obstacles in rectangle and elliptical shapes are added. They are colored grey and orange, respectively.
 7. If the path is available after multiple explorations, the path corresponding to the start and goal will be marked in red color. The coordinates of the path and the cost will be printed in the output.
 
+
+##Sample Output 
+![](assets/sample_output1.png)
+
     
