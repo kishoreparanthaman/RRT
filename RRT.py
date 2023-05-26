@@ -48,7 +48,7 @@ class rrtstar:
 
     def dmap(self, obstacles):
         print(obstacles)
-        pygame.draw.circle(self.map, self.red, self.start, self.nodeRad + 5, 0)
+        pygame.draw.circle(self.map, self.blue, self.start, self.nodeRad + 5, 0)
         pygame.draw.circle(self.map, self.green, self.goal, self.nodeRad + 10, 0)
         self.obstacle(obstacles)
 
