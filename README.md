@@ -41,9 +41,9 @@ Python 3.4 and other common packages listed in `requirements.txt`.
 ### Sample 1
 ![alt text](https://github.com/kishoreparanthaman/RRT/blob/main/assest/RRT1.gif)
 ### Sample 2
-![alt text](https://github.com/kishoreparanthaman/RRT/blob/main/assest/sample_output2.png)
+![alt text](https://github.com/kishoreparanthaman/RRT/blob/main/assest/RRT2.gif)
 ### Sample 3
-![alt text](https://github.com/kishoreparanthaman/RRT/blob/main/assest/sample_output3.png)
+![alt text](https://github.com/kishoreparanthaman/RRT/blob/main/assest/RRT3.gif)
 ### Sample 4
-![alt text](https://github.com/kishoreparanthaman/RRT/blob/main/assest/sample_output4.png)
+![alt text](https://github.com/kishoreparanthaman/RRT/blob/main/assest/RRT4.gif)
     
