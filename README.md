@@ -39,7 +39,7 @@ Python 3.4 and other common packages listed in `requirements.txt`.
 
 ## Sample Output 
 ### Sample 1
-![alt text](https://github.com/kishoreparanthaman/RRT/blob/main/assest/sample_output1.png)
+![alt text](https://github.com/kishoreparanthaman/RRT/blob/main/assest/RRT1.gif)
 ### Sample 2
 ![alt text](https://github.com/kishoreparanthaman/RRT/blob/main/assest/sample_output2.png)
 ### Sample 3
